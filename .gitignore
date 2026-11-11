@@ -1,0 +1,16 @@
+# Local dataset and model weights
+movie.csv
+saved_models/
+*.pt
+*.pth
+*.safetensors
+pytorch_model.bin
+
+# Notebook checkpoints and Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
